@@ -74,7 +74,7 @@ pricing:
     doorstep each month. Contact us about more details and payment info.
   plans:
     - plan: Personal
-      price: 10/bulan
+      price: 10/bln
       description: Fitur yang kami tawarkan
       items:
         - 1gb storage
