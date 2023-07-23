@@ -19,16 +19,16 @@ description: Penggunaan web hosting memungkinkan situs web Anda dihosting pada
   seminggu.
 intro:
   blurbs:
-    - image: /img/images-18-.jpg
+    - image: /img/images-16-.jpg
       text: Pada dasarnya web hosting adalah proses yang berjalan di web server, yaitu
         komputer fisik yang bekerja 24 jam setiap harinya untuk menyediakan
         website di internet
-    - image: /img/download-11-.jpg
+    - image: /img/images-16-.jpg
       text: >
         Pengunjung bisa menggunakan nama domain atau alamat IP untuk membuka
         website Anda di web browser. Server web host kemudian akan mengirimkan
         semua file yang diperlukan agar website bisa dimuat di aplikasi tersebut
-    - image: /img/download-10-.jpg
+    - image: /img/images-16-.jpg
       text: >
         Ketika membeli hosting, sebenarnya Anda sedang menyewa ruang di server
         web host untuk menyimpan data website. Itulah mengapa layanan hosting
@@ -43,19 +43,29 @@ intro:
     website, dan memastikan bahwa data seperti teks, foto, dan file website
     lainnya bisa diakses oleh pengunjung.
 main:
-  heading: Great coffee with no compromises
+  heading: Jenis-Jenis Web Hosting
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Secara umum, jenis-jenis web hosting yang ada di pasaran saat ini adalah:
+
+
+    Shared Hosting
+
+    VPS (Virtual Private Server) Hosting
+
+    Cloud Hosting
+
+    WordPress Hosting
+
+    Dedicated Server Hosting
+
+    Banyaknya pilihan web hosting ini mungkin akan sedikit membingungkan bagi Anda untuk menentukan mana yang paling baik.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: web hosting murah
+    image: /img/download-10-.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: web hosting murah
+    image: /img/download-11-.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: "web hosting murah "
+    image: /img/images-18-.jpg
 ---
