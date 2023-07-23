@@ -1,42 +1,33 @@
 ---
-heading: Great coffee with a conscience
+heading: pilihan layanan web hosting kami
 path: /products
 templateKey: product-page
-title: Our Coffee
-image: /img/jumbotron.jpg
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+title: Layanan web hosting murah meriah
+image: /img/images-20-.jpg
+description: Pilihan layanan web hosting dapat beragam tergantung pada kebutuhan
+  dan anggaran Anda..
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/images-17-.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Free Hosting: Beberapa penyedia menawarkan hosting gratis dengan fitur
+        terbatas. Ini cocok untuk eksperimen atau situs web pribadi, tetapi
+        biasanya tidak disarankan untuk situs web profesional atau bisnis.
+    - image: /img/images-18-.jpg
+      text: "Virtual Private Server (VPS) Hosting: VPS adalah langkah di atas shared
+        hosting. Server fisik dibagi menjadi beberapa lingkungan virtual yang
+        berbeda, memberikan kontrol yang lebih besar dan kinerja yang lebih baik
+        daripada shared hosting."
+    - image: /img/download-11-.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Reseller Hosting: Jika Anda ingin menjual hosting kepada klien Anda
+        sendiri, Anda bisa mempertimbangkan opsi ini. Anda mendapatkan sumber
+        daya hosting besar dan membaginya untuk dijual kembali.
+    - image: /img/images-18-.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        E-commerce Hosting: Layanan ini dioptimalkan khusus untuk situs web
+        e-commerce, menyediakan fitur dan keamanan tambahan untuk transaksi
+        online yang aman.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -44,47 +35,60 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Pilihlah layanan hosting yang sesuai dengan kebutuhan Anda
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Pastikan untuk mempertimbangkan ruang penyimpanan, bandwidth, tingkat
+    dukungan pelanggan, kehandalan server, dan harga yang sesuai dengan anggaran
+    Anda. Selalu lakukan riset lebih lanjut dan baca ulasan pengguna sebelum
+    membuat keputusan akhir
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: "#web hosting murah meriah"
+    image: /img/images-18-.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: "#web hosting murah meriah"
+    image: /img/images-23-.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+    alt: "#web hosting murah meriah"
+    image: /img/images-24-.jpg
+testimonials: []
+full_image: /img/images-22-.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  heading: "layanan yang kami tawarkan "
+  description: Biasanya perusahaan web hosting juga menyediakan berbagai paket
+    dengan fiturnya masing-masing untuk menyesuaikan kebutuhan pelanggan. Tentu
+    saja harganya akan berbeda-beda.  Misalnya untuk web atau blog sederhana,
+    Anda bisa beli hosting Single. Apabila nantinya website semakin berkembang
+    dan traffic semakin ramai, Anda bisa upgrade ke paket hosting yang
+    kapasitasnya lebih besar.
   plans:
-    - plan: Personal
+    - plan: Hosting Single
       price: 10/bln
       description: Fitur yang kami tawarkan
       items:
-        - 1gb storage
-        - unlimited Bandwith
-        - Ssh
-    - plan: Busines
+        - 1 Website
+        - 50 GB SSD Storage
+        - Bandwidth 100
+        - GB Domain Gratis (senilai Rp119.900)
+        - SSL Gratis Unlimited
+        - Backup Mingguan
+    - plan: Hosting Premium
       price: 50/bln
       description: Fitur yang kami tawarkan
       items:
-        - 5gb storage
-        - unlimited Bandwith
-        - Ssh
+        - 100 Website
+        - 100 GB SSD Storage
+        - Unlimited Bandwidth
+        - Domain Gratis (senilai Rp119.900)
+        - SSL Gratis Unlimited
+        - Backup Mingguan
+    - plan: Hosting Bisnis
+      price: 75/bln
+      description: Fitur yang kami tawarkan
+      items:
+        - 100 Website
+        - 200 GB SSD Storage
+        - Unlimited Bandwidth
+        - Domain Gratis (senilai Rp119.900)
+        - SSL Gratis Unlimited
+        - Backup Harian (senilai Rp274.020)
 ---
