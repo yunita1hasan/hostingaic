@@ -2,7 +2,7 @@
 templateKey: index-page
 title: "WEB HOSTING MURAH DAN MERIAH  "
 image: /img/download-9-.jpg
-heading: Wungsi web hosting
+heading: Fungsi web hosting
 subheading: Bisnis yang berkembang dan mendunia
 mainpitch:
   title: Apa itu Web hosting
