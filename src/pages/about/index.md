@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 path: /about
-title: Pilihan paket di hostingmurah meriah
+title: Pilihan paket dihosting murah meriah
 ---
 
 
