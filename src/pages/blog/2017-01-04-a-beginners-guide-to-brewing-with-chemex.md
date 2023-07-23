@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Sudah Punya Hosting di Tempat Lain?
-date: 2017-01-04T15:04:10.000Z
+date: 2023-07-23T15:04:10.000Z
 description: >-
   Pindahkan ke hostingmurahmeriah, gratis 3 bulan pertama!
 
