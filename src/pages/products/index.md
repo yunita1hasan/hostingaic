@@ -60,7 +60,7 @@ pricing:
     kapasitasnya lebih besar.
   plans:
     - plan: Hosting Single.
-      price: 10/bln
+      price: 10/bulan
       description: Fitur yang kami tawarkan
       items:
         - 1 Website
@@ -70,7 +70,7 @@ pricing:
         - SSL Gratis Unlimited
         - Backup Mingguan
     - plan: Hosting Premium
-      price: 50/bln
+      price: 25/bulan
       description: Fitur yang kami tawarkan
       items:
         - 100 Website
@@ -80,7 +80,7 @@ pricing:
         - SSL Gratis Unlimited
         - Backup Mingguan
     - plan: Hosting Bisnis
-      price: 75/bln
+      price: 50/bulan
       description: Fitur yang kami tawarkan
       items:
         - 100 Website
