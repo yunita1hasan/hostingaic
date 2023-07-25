@@ -28,7 +28,7 @@ intro:
         E-commerce Hosting: Layanan ini dioptimalkan khusus untuk situs web
         e-commerce, menyediakan fitur dan keamanan tambahan untuk transaksi
         online yang aman.
-  heading: Uptime Website 99,99%
+  heading: Uptime Website 99,99%.
   description: >
     
     Jaminan uptime 99,99%, website Anda akan selalu online. Lebih optimal walaupun dalam kondisi trafik tinggi.
