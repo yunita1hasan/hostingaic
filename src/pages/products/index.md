@@ -59,7 +59,7 @@ pricing:
     dan traffic semakin ramai, Anda bisa upgrade ke paket hosting yang
     kapasitasnya lebih besar.
   plans:
-    - plan: Hosting Single
+    - plan: Hosting Single.
       price: 10/bln
       description: Fitur yang kami tawarkan
       items:
