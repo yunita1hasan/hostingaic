@@ -2,7 +2,7 @@
 heading: pilihan layanan web hosting kami
 path: /products
 templateKey: product-page
-title: LAYANAN WEB HOSTING
+title: LAYANAN WEB HOSTING.
 image: /img/images-20-.jpg
 description: Pilihan layanan web hosting dapat beragam tergantung pada kebutuhan
   dan anggaran Anda..
